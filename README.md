@@ -5,9 +5,8 @@ In questo esercizio, utilizzerai la classe ListaVettore fornita e implementerai 
 Obiettivi:
 
 Dovrai implementare i seguenti metodi all'interno della classe ListaVettore:
-
-T massimo() const: Restituisce l'elemento con il valore massimo nella lista.
-T minimo() const: Restituisce l'elemento con il valore minimo nella lista.
-T somma() const: Calcola e restituisce la somma di tutti gli elementi presenti nella lista.
-bool contiene(const T& elem) const: Verifica se un elemento elem è presente nella lista e restituisce true se è trovato, false altrimenti.
-int contaOccorrenze(const T& elem) const: Conta il numero di volte che un elemento elem appare nella lista.
+- T massimo() const: Restituisce l'elemento con il valore massimo nella lista.
+- T minimo() const: Restituisce l'elemento con il valore minimo nella lista.
+- T somma() const: Calcola e restituisce la somma di tutti gli elementi presenti nella lista.
+- bool contiene(const T& elem) const: Verifica se un elemento elem è presente nella lista e restituisce true se è trovato, false altrimenti.
+- int contaOccorrenze(const T& elem) const: Conta il numero di volte che un elemento elem appare nella lista.
